@@ -2,7 +2,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=I%27m%20Jhonathan🤖&width=900&height=100)](https://github.com/Akshay090/svg-banners)
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Full%20Stack%20Developer&width=900&height=170)](https://github.com/Akshay090/svg-banners)
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/jhonrami12" target="_blank">
     <img align="center" alt="jhonrami12" height="30" width="40" src="https://skillicons.dev/icons?i=twitter" />
@@ -16,11 +16,11 @@
 </a>
 </p>
 
-## I'm passionate about working remotely building web applications.
+## I'm passionate about working remotely building web applications
 
 
 ### My stacks include
-<p align="center"><b> Backend Stack</b><p>
+<h3 align="center"><b> Backend Stack</b><h3>
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt=".NET C#" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="50" height="50"/>&nbsp;
@@ -28,7 +28,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="TypeScript" width="50" height="50"/>&nbsp;
 <p>
-<p align="center"><b> Frontend Stack</b><p>
+<h3 align="center"><b> Frontend Stack</b><h3>
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>&nbsp;
@@ -39,7 +39,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain.svg" alt="Jasmine" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwinds" width="50" height="50"/>&nbsp; <p>
-<p align="center"><b> Databases Stack</b><p>
+<h3 align="center"><b> Databases Stack</b><h3>
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Oracle PL/SQL" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/>&nbsp;
@@ -47,12 +47,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSql" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>&nbsp;
 <p>
-<p align="center"><b> Clouds Stack</b><p>
+<h3 align="center"><b> Clouds Stack</b><h3>
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="Amazon" width="50" height="50"/>&nbsp;
 <p>
-<p align="center"><b> Others Tools and Technologies Stack</b><p>
+<h3 align="center"><b> Others Tools and Technologies Stack</b><h3>
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>&nbsp;

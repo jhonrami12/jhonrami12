@@ -1,7 +1,14 @@
+<p align="center">
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Jhonathan%F0%9F%A4%B9&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+</p>
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Jhonathan%20Ramirez%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%20|%20Full%20Stack%20Developer%20&width=800&height=70)](https://github.com/Akshay090/svg-banners)
+I'm Jhonathan a Full Stack developer passionate about building web applications 
 
-I'm Jhonathan, a software developer passionate about building web applications and working with the following technologies and tools:
+<p align="center">
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Full%20Stack%20Developer&width=800&height=370)](https://github.com/Akshay090/svg-banners)
+</p>
+
+and working with the following technologies and tools:
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>&nbsp;

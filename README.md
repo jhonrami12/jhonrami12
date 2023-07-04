@@ -1,22 +1,41 @@
+# Hi there! 👋 <br/>
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=I%27m%20Jhonathan🤖&width=900&height=100)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Full%20Stack%20Developer&width=900&height=170)](https://github.com/Akshay090/svg-banners)
+
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Jhonathan%F0%9F%A4%B9&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+<a href="https://twitter.com/jhonrami12" target="_blank">
+    <img align="center" alt="jhonrami12" height="30" width="40" src="https://skillicons.dev/icons?i=twitter" />
+</a>
+  
+<a href="https://www.linkedin.com/in/jhonathan-ramirez-a7618285" target="_blank">
+    <img align="center" alt="Jhonathan-ramirez" height="30"  width="40" src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://instagram.com/jhonrami12" target="_blank">
+    <img align="center" alt="Jhonathan-Ramirez" height="30" width="40" src="https://skillicons.dev/icons?i=instagram" />
+</a>
 </p>
 
-I'm Jhonathan a Full Stack developer passionate about building web applications 
+## I'm passionate about working remotely building web applications.
 
+
+### My Stacks are
+<p align="center"><b> Backend Stack</b><p>
 <p align="center">
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Full%20Stack%20Developer&width=800&height=370)](https://github.com/Akshay090/svg-banners)
-</p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt=".NET C#" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="TypeScript" width="50" height="50"/>&nbsp;
+<p>
 
 and working with the following technologies and tools:
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt=".NET C#" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>&nbsp;
+
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Oracle PL/SQL" width="50" height="50"/>&nbsp;

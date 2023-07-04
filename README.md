@@ -1,5 +1,5 @@
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Jhonathan%20Ramirez%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%20|%20Full%20Stack%20Developer%20&width=800&height=70)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Jhonathan%20Ramirez%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%20|%20Full%20Stack%20Developer%20&width=800&height=70)](https://github.com/Akshay090/svg-banners)
 
 I'm Jhonathan, a software developer passionate about building web applications and working with the following technologies and tools:
 <p>

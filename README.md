@@ -35,8 +35,10 @@ and effectively wit h my colleagues and clients.
 
 Connect with me on social media platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/jhonathan-ramirez-a7618285/)
-- [Twitter](https://twitter.com/jhonrami12)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jhonathan-ramirez-a7618285)
+- [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/jhonrami12)
+
+
 
 Feel free to reach out to me if you have any questions, collaboration ideas, or just want to say hello. I'm always open to interesting discussions and opportunities.
 
